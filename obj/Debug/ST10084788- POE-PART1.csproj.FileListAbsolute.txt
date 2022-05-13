@@ -1,0 +1,8 @@
+C:\Users\shiva\OneDrive\Desktop\PROG POE Part 1\ST10084788_POE_PART_1\ST10084788- POE-PART1\bin\Debug\ST10084788- POE-PART1.exe.config
+C:\Users\shiva\OneDrive\Desktop\PROG POE Part 1\ST10084788_POE_PART_1\ST10084788- POE-PART1\bin\Debug\ST10084788- POE-PART1.exe
+C:\Users\shiva\OneDrive\Desktop\PROG POE Part 1\ST10084788_POE_PART_1\ST10084788- POE-PART1\bin\Debug\ST10084788- POE-PART1.pdb
+C:\Users\shiva\OneDrive\Desktop\PROG POE Part 1\ST10084788_POE_PART_1\ST10084788- POE-PART1\obj\Debug\ST10084788- POE-PART1.csproj.AssemblyReference.cache
+C:\Users\shiva\OneDrive\Desktop\PROG POE Part 1\ST10084788_POE_PART_1\ST10084788- POE-PART1\obj\Debug\ST10084788- POE-PART1.csproj.SuggestedBindingRedirects.cache
+C:\Users\shiva\OneDrive\Desktop\PROG POE Part 1\ST10084788_POE_PART_1\ST10084788- POE-PART1\obj\Debug\ST10084788- POE-PART1.csproj.CoreCompileInputs.cache
+C:\Users\shiva\OneDrive\Desktop\PROG POE Part 1\ST10084788_POE_PART_1\ST10084788- POE-PART1\obj\Debug\ST10084788- POE-PART1.exe
+C:\Users\shiva\OneDrive\Desktop\PROG POE Part 1\ST10084788_POE_PART_1\ST10084788- POE-PART1\obj\Debug\ST10084788- POE-PART1.pdb
